@@ -1,0 +1,6 @@
+pairs:
+  yn: Your
+  dfs: Dan Schafer
+email:
+  al: Your.Name@gmail.com
+  dfs: danfschafer@gmail.com
